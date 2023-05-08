@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whit" /> 
 </a>
 
-<a href="mailto:amanda.s.rondina@gmail.com" target="_blank" >
+<a href="mailto:contact.amandarondina@gmail.com" target="_blank" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
