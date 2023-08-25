@@ -1,9 +1,9 @@
 # Hi there, I'm Amanda 👋🏻
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amandarondina&show_icons=true&theme=jolly" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amandarondina&show_icons=true&theme=jolly&$PAT_1"  />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandarondina&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandarondina&layout=compact&$PAT_1" />
 
 
 
