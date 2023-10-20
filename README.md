@@ -1,4 +1,17 @@
 # Hi there, I'm Amanda 👋🏻
+Former cosmetic/medical tattooer from Brazil, who fell in love with coding and the Nordic countries. <br>
+Frontend development combines three of my favorite things: solving puzzles, language learning and graphic design.
+
+💻 I’m currently working on : React/Next.js travel blog.
+
+🧠 I’m currently learning : Next.js, TypeScript, Norwegian Bokmål.
+
+My portfolio is available at : https://portfolio-2-0-tau-ten.vercel.app/
+
+How to reach me : amandasrnd@gmail.com
+
+💫 Fun fact : My most played artists on Spotify are Lana del Rey and Bring Me The Horizon.
+
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amandarondina&show_icons=true&theme=jolly&$PAT_1"  />
