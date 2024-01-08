@@ -1,6 +1,5 @@
 # Hi there, I'm Amanda 👋🏻
-Former cosmetic/medical tattooer from Brazil, who fell in love with coding and the Nordic countries. <br>
-Frontend development combines three of my favorite things: solving puzzles, language learning and graphic design.
+Frontend development combines three of my favorite things: solving puzzles, languages and UX design.
 
 💻 I’m currently working on : React/Next.js travel blog.
 
@@ -10,7 +9,6 @@ My portfolio is available at : https://portfolio-2-0-tau-ten.vercel.app/
 
 How to reach me : amandasrnd@gmail.com
 
-💫 Fun fact : My most played artists on Spotify are Lana del Rey and Bring Me The Horizon.
 
 
 
